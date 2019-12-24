@@ -1,0 +1,1 @@
+net/syarihu/android/sample/viewmodel/SampleViewModel.class
